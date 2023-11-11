@@ -57,7 +57,7 @@ for i in range(160 + 40):
 turtle.penup()
 turtle.goto(0, 100)  
 turtle.color("Red")  
-turtle.write("Hola chuli", align="center", font=("Arial", 24, "bold"))
+turtle.write("Hola", align="center", font=("Arial", 24, "bold"))
 
 
 turtle.hideturtle()
